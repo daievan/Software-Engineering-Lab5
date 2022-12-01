@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/background.jpg</file>
+        <file>res/R-C.png</file>
+        <file>res/button-start.png</file>
+        <file>res/result.png</file>
+        <file>res/confirm.png</file>
+    </qresource>
+</RCC>
